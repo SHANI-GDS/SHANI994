@@ -1,8 +1,8 @@
-<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
+<h1 align="center"> SHANI MD </h1>
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/CypherX">
-    <img alt="CypherX docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
+    <img alt="CypherX docs" height="350" src="https://files.catbox.moe/7gung8.jpg">
   </a>
 </p>
     
